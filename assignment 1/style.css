@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.container{
+    margin: auto;
+    padding: 30px;
+    background-color: #E9ECEF;
+    width: 70%;
+}
+
+.inputContainer {
+    display: flex;
+    width: 100%;
+}
+  
+
+.icon {
+    padding: 10px;
+    text-align: center;
+    background: #5971a3;
+    color: white;
+    min-width: 50px;
+}
+
+.inputField {
+    width: 400px;
+    outline: none;
+}
+
+td{
+    width: 60%;
+    height: 75px;
+}
